@@ -1,4 +1,23 @@
-body{ 
-    background: url(img/Fondo.jpg);
-    background-size: cover;
+*{ 
+    margin: 0;
+    padding: 0;
 }
+
+aside{ 
+    background: url(img/Fondo.jpg);
+}
+/*
+#section1{ 
+    width: 35%;
+    height: 900px;
+    border: 2px solid black;
+    background: url(img/Fondo.jpg);
+    background: cover;
+}
+
+#section2{
+    width: 75%;
+    height: 100%;
+    background: indigo;
+}
+    */
