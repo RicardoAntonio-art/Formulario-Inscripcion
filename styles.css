@@ -31,6 +31,7 @@ main{
 
 main .content1 { 
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
     padding: 0rem 3rem;
 }
 
@@ -45,7 +46,7 @@ main .content2{
 }
 
 .content2 legend{ 
-    font-size: .9rem;
+    font-size: rem;
     font-family: Arial, Helvetica, sans-serif;
 }
 .content2 div{ 
@@ -103,7 +104,7 @@ div .datos{
     font-size: 1.2rem;
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 5px;
-    transition: all ease 0.2s;
+    transition: all ease 0.5s;
 }
 
 .content3 button:hover{ 
@@ -111,5 +112,10 @@ div .datos{
 }
 
 .content3 p{ 
-    font-size: 1.2rem;
+    font-size: 1.3rem;
+}
+
+.content3 a{
+    text-decoration: none;
+    color: brown ;
 }
